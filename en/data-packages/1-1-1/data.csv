@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Proportion of population below international poverty line [1.1.1],,Percent,2019,38.0
+2019,Normal value,Units,Proportion of population below international poverty line [1.1.1],,Percent,2019,32.6

@@ -15,23 +15,82 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "A",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_VACN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2019",
                 ""
               ]
             }

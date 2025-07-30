@@ -1,1 +1,36 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Education level,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.62
+2016,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.64
+2017,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.64
+2018,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.67
+2019,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.75
+2020,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.78
+2021,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Tertiary education,Index,2021,0.91
+2015,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.15
+2016,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.14
+2017,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.15
+2018,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.14
+2019,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.15
+2020,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.15
+2021,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Pre-primary education,Index,2021,1.17
+2015,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.1
+2016,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.12
+2017,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.15
+2018,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.15
+2019,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.17
+2020,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.17
+2021,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Primary education,Index,2021,1.18
+2015,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.1
+2016,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.13
+2017,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.16
+2018,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.16
+2019,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.18
+2020,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.21
+2021,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Lower secondary education,Index,2021,1.21
+2015,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,0.93
+2016,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,0.96
+2017,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,1.01
+2018,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,1.05
+2019,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,1.09
+2020,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,1.14
+2021,Normal value,Units,Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1],,Upper secondary education,Index,2021,1.2

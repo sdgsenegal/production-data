@@ -1,1 +1,22 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,Education level,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,59.3
+2016,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,59.9
+2017,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,62.0
+2018,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,59.8
+2019,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,62.3
+2020,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,62.1
+2021,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Primary education, sufficient for level completion",Percent,2021,65.0
+2015,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,25.1
+2016,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,25.1
+2017,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,26.4
+2018,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,27.0
+2019,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,26.5
+2020,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,27.4
+2021,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,"Upper secondary education, sufficient for level completion",Percent,2021,28.21
+2015,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,38.8
+2016,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,36.7
+2017,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,36.5
+2018,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,36.2
+2019,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,36.6
+2020,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,36.6
+2021,Normal value,Units,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,15 to 17 years old,"Lower secondary education, sufficient for level completion",Percent,2021,41.8

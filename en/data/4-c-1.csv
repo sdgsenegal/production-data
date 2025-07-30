@@ -1,1 +1,29 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Education level,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,77.5
+2016,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,93.8
+2017,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,94.1
+2018,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,94.1
+2019,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,93.9
+2020,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,94.7
+2021,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,98.9
+2015,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,95.8
+2016,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,95.8
+2017,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,96.0
+2018,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,95.8
+2019,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,99.5
+2020,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,99.5
+2021,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,2021,99.96
+2015,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2016,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2017,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2018,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2019,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2020,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2021,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,2021,100.0
+2015,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2016,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2017,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2018,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2019,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2020,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0
+2021,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Upper secondary education,Percent,2021,100.0

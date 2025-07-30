@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Proportion of children moderately or severely wasted [2.2.2],,under 5 years old,Percent,2019,7.8
+2016,Normal value,Units,Proportion of children moderately or severely wasted [2.2.2],,under 5 years old,Percent,2019,7.1
+2017,Normal value,Units,Proportion of children moderately or severely wasted [2.2.2],,under 5 years old,Percent,2019,9.0
+2018,Normal value,Units,Proportion of children moderately or severely wasted [2.2.2],,under 5 years old,Percent,2019,7.8
+2019,Normal value,Units,Proportion of children moderately or severely wasted [2.2.2],,under 5 years old,Percent,2019,8.1

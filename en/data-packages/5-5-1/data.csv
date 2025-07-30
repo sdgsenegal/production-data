@@ -1,1 +1,25 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
+2016,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,,Percent,2020,42.7
+2017,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,,Percent,2020,41.81
+2018,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,,Percent,2020,41.8
+2019,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,,Percent,2020,41.8
+2020,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,,Percent,2020,43.0
+2016,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Percent,2020,42.7
+2017,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Percent,2020,41.81
+2018,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Percent,2020,41.8
+2019,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Percent,2020,41.8
+2020,Normal value,Units,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Percent,2020,43.0
+2015,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2016,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2017,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2018,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2019,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2020,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,,Percent,2020,47.8
+2015,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2016,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2017,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2018,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2019,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2020,Normal value,Units,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,Percent,2020,47.8
+2015,Normal value,Units,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],,,Percent,2015,42.7
+2015,Normal value,Units,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1],,Female,Percent,2015,42.7

@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,9.8
+2016,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,8.9
+2017,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,7.9
+2018,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,7.4
+2019,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,7.5
+2020,Normal value,Units,Prevalence of undernourishment [2.1.1],,Percent,2020,7.6

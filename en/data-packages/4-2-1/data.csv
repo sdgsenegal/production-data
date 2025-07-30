@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Age,Education level,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,"Percentage of children who are developmentally on track in health, learning and psychosocial well-being [4.2.1]",,under 6 years old,Early childhood educational development,Percent,2020,10.11
+2020,Normal value,Units,"Percentage of children who are developmentally on track in health, learning and psychosocial well-being [4.2.1]",,under 6 years old,Early childhood educational development,Percent,2020,15.2
