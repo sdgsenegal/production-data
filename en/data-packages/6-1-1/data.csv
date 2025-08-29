@@ -1,1 +1,17 @@
-Year,Value
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2015,Overall rate of access to drinking water,,,Percent,2020,92.2
+2016,Overall rate of access to drinking water,,,Percent,2020,93.7
+2019,Overall rate of access to drinking water,,,Percent,2020,96.2
+2020,Overall rate of access to drinking water,,,Percent,2020,97.6
+2015,Overall rate of access to drinking water,,Rural,Percent,2020,87.2
+2016,Overall rate of access to drinking water,,Rural,Percent,2020,89.5
+2017,Overall rate of access to drinking water,,Rural,Percent,2020,91.3
+2018,Overall rate of access to drinking water,,Rural,Percent,2020,70.6
+2019,Overall rate of access to drinking water,,Rural,Percent,2020,94.8
+2020,Overall rate of access to drinking water,,Rural,Percent,2020,96.5
+2015,Overall rate of access to drinking water,,Urban,Percent,2020,98.0
+2016,Overall rate of access to drinking water,,Urban,Percent,2020,98.5
+2017,Overall rate of access to drinking water,,Urban,Percent,2020,98.8
+2018,Overall rate of access to drinking water,,Urban,Percent,2020,90.9
+2019,Overall rate of access to drinking water,,Urban,Percent,2020,97.8
+2020,Overall rate of access to drinking water,,Urban,Percent,2020,98.8

@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,Education level,UNIT_MEASURE,Time period details,Value
+2017,Adult literacy rate.,,,15 years old and over,Primary and lower secondary education (basic education),Percent,2018,52.1
+2018,Adult literacy rate.,,,15 years old and over,Primary and lower secondary education (basic education),Percent,2018,51.8
+2015,Adult literacy rate.,,Female,15 years old and over,Primary and lower secondary education (basic education),Percent,2016,42.1
+2016,Adult literacy rate.,,Female,15 years old and over,Primary and lower secondary education (basic education),Percent,2016,44.9
+2015,Adult literacy rate.,,Male,15 years old and over,Primary and lower secondary education (basic education),Percent,2016,56.6
+2016,Adult literacy rate.,,Male,15 years old and over,Primary and lower secondary education (basic education),Percent,2016,59.5

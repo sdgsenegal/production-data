@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,REF_AREA,SEX,AGE,EDUCATION_LEV,UNIT_MEASURE,TIME_DETAIL,Value
+2017,Taux d’alphabétisation des adultes,,,Y_GE15,AGG_1_2,PT,2018,52.1
+2018,Taux d’alphabétisation des adultes,,,Y_GE15,AGG_1_2,PT,2018,51.8
+2015,Taux d’alphabétisation des adultes,,F,Y_GE15,AGG_1_2,PT,2016,42.1
+2016,Taux d’alphabétisation des adultes,,F,Y_GE15,AGG_1_2,PT,2016,44.9
+2015,Taux d’alphabétisation des adultes,,M,Y_GE15,AGG_1_2,PT,2016,56.6
+2016,Taux d’alphabétisation des adultes,,M,Y_GE15,AGG_1_2,PT,2016,59.5

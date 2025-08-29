@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,408
-2016,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,604
-2017,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,635
-2018,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,612
-2019,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,745
-2020,Normal value,Units,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,877
+Year,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,408
+2016,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,604
+2017,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,635
+2018,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,612
+2019,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,745
+2020,Number of deaths rate due to road traffic injuries [3.6.1],,Number,2020,877

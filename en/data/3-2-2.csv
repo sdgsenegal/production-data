@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Age,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,23
-2016,Normal value,Units,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,21
-2017,Normal value,Units,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,28
-2018,Normal value,Units,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,23
-2019,Normal value,Units,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,21
+Year,SERIES,Reference area,Age,UNIT_MEASURE,Time period details,Value
+2015,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,23
+2016,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,21
+2017,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,28
+2018,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,23
+2019,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",2019,21

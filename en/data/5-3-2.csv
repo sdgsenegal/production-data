@@ -1,1 +1,21 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Time period details,Value
+2015,Prevalence of female genital mutilation,,,under 15 years old,Percent,2019,14.6
+2016,Prevalence of female genital mutilation,,,under 15 years old,Percent,2019,13.6
+2017,Prevalence of female genital mutilation,,,under 15 years old,Percent,2019,14.000000000000002
+2018,Prevalence of female genital mutilation,,,under 15 years old,Percent,2019,14.099999999999998
+2019,Prevalence of female genital mutilation,,,under 15 years old,Percent,2019,16.1
+2015,Prevalence of female genital mutilation,,,15 to 49 years old,Percent,2019,24.2
+2016,Prevalence of female genital mutilation,,,15 to 49 years old,Percent,2019,23.0
+2017,Prevalence of female genital mutilation,,,15 to 49 years old,Percent,2019,24.0
+2018,Prevalence of female genital mutilation,,,15 to 49 years old,Percent,2019,23.0
+2019,Prevalence of female genital mutilation,,,15 to 49 years old,Percent,2019,25.2
+2015,Prevalence of female genital mutilation,,Female,under 15 years old,Percent,2019,14.6
+2016,Prevalence of female genital mutilation,,Female,under 15 years old,Percent,2019,13.6
+2017,Prevalence of female genital mutilation,,Female,under 15 years old,Percent,2019,14.000000000000002
+2018,Prevalence of female genital mutilation,,Female,under 15 years old,Percent,2019,14.099999999999998
+2019,Prevalence of female genital mutilation,,Female,under 15 years old,Percent,2019,16.1
+2015,Prevalence of female genital mutilation,,Female,15 to 49 years old,Percent,2019,24.2
+2016,Prevalence of female genital mutilation,,Female,15 to 49 years old,Percent,2019,23.0
+2017,Prevalence of female genital mutilation,,Female,15 to 49 years old,Percent,2019,24.0
+2018,Prevalence of female genital mutilation,,Female,15 to 49 years old,Percent,2019,23.0
+2019,Prevalence of female genital mutilation,,Female,15 to 49 years old,Percent,2019,25.2

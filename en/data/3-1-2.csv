@@ -1,8 +1,8 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,53.2
-2016,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,59.0
-2017,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,65.0
-2018,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,74.2
-2019,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,74.5
-2020,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,96.3
-2021,Normal value,Units,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,97.0
+Year,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,53.2
+2016,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,59.0
+2017,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,65.0
+2018,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,74.2
+2019,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,74.5
+2020,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,96.3
+2021,Proportion of births attended by skilled health personnel [3.1.2],,Percent,2021,97.0

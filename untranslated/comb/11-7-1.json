@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020],"SERIES":["_L_SN_0110701_1","_L_SN_0110701_1","_L_SN_0110701_1","_L_SN_0110701_1","_L_SN_0110701_1","_L_SN_0110701_1"],"REF_AREA":[null,null,null,null,null,null],"URBANISATION":["CITY","CITY","CITY","CITY","CITY","CITY"],"UNIT_MEASURE":["HA","HA","HA","HA","HA","HA"],"TIME_DETAIL":["2020","2020","2020","2020","2020","2020"],"Value":[5,40,65,75,77,87]},"edges":{"From":["URBANISATION"],"To":["TIME_DETAIL"]}}

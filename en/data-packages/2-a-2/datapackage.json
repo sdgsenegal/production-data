@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Billions",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {

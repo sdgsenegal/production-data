@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
-2016,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
-2017,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
-2018,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
-2019,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
-2020,Normal value,Units,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
+2015,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
+2016,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,315
+2017,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,236
+2018,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,236
+2019,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392
+2020,Maternal mortality ratio [3.1.1],,Female,"Per 100,000 live births",2020,392

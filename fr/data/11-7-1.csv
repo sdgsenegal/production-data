@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,Value
+2015,Superficie d’espaces verts aménagés,,CITY,HA,2020,5
+2016,Superficie d’espaces verts aménagés,,CITY,HA,2020,40
+2017,Superficie d’espaces verts aménagés,,CITY,HA,2020,65
+2018,Superficie d’espaces verts aménagés,,CITY,HA,2020,75
+2019,Superficie d’espaces verts aménagés,,CITY,HA,2020,77
+2020,Superficie d’espaces verts aménagés,,CITY,HA,2020,87

@@ -1,1 +1,9 @@
-Year,Value
+Year,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
+2015,"Niveau moyen de particules fines à Dakar - PM 2,5",,ug/m3,2020,35
+2016,"Niveau moyen de particules fines à Dakar - PM 2,5",,ug/m3,2020,25
+2017,"Niveau moyen de particules fines à Dakar - PM 2,5",,ug/m3,2020,21
+2020,"Niveau moyen de particules fines à Dakar - PM 2,5",,ug/m3,2020,38
+2015,Niveau moyen de particules fines à Dakar - PM 10,,ug/m3,2020,160
+2016,Niveau moyen de particules fines à Dakar - PM 10,,ug/m3,2020,140
+2017,Niveau moyen de particules fines à Dakar - PM 10,,ug/m3,2020,448
+2020,Niveau moyen de particules fines à Dakar - PM 10,,ug/m3,2020,151

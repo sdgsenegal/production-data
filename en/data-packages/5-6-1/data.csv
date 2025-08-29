@@ -1,1 +1,13 @@
-Year,Value
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
+2015,Proportion of women in ministerial positions,,,Percent,2020,21.2
+2016,Proportion of women in ministerial positions,,,Percent,2020,23.1
+2017,Proportion of women in ministerial positions,,,Percent,2020,26.3
+2018,Proportion of women in ministerial positions,,,Percent,2020,25.4
+2019,Proportion of women in ministerial positions,,,Percent,2020,25.5
+2020,Proportion of women in ministerial positions,,,Percent,2020,26.0
+2015,Proportion of women in ministerial positions,,Female,Percent,2020,21.2
+2016,Proportion of women in ministerial positions,,Female,Percent,2020,23.1
+2017,Proportion of women in ministerial positions,,Female,Percent,2020,26.3
+2018,Proportion of women in ministerial positions,,Female,Percent,2020,25.4
+2019,Proportion of women in ministerial positions,,Female,Percent,2020,25.5
+2020,Proportion of women in ministerial positions,,Female,Percent,2020,26.0

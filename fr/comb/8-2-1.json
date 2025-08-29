@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020],"SERIES":["SL_EMP_PCAP","SL_EMP_PCAP","SL_EMP_PCAP","SL_EMP_PCAP","SL_EMP_PCAP","SL_EMP_PCAP"],"REF_AREA":[null,null,null,null,null,null],"AGE":["Y_GE15","Y_GE15","Y_GE15","Y_GE15","Y_GE15","Y_GE15"],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"TIME_DETAIL":["2020","2020","2020","2020","2020","2020"],"Value":[4.0,3.1,2.2,1.7,1.2,4.2]},"edges":{"From":["AGE"],"To":["TIME_DETAIL"]}}

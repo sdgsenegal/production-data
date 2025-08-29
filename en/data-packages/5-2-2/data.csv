@@ -1,1 +1,11 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2019,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 17 years old,,Percent,2019,2.9
+2017,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,,Percent,2019,8.4
+2018,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,,Percent,2019,6.5
+2019,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,,Percent,2019,3.4
+2017,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Rural,Percent,2019,7.6
+2018,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Rural,Percent,2019,7.8
+2019,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Rural,Percent,2019,3.2
+2017,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Urban,Percent,2019,9.3
+2018,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Urban,Percent,2019,5.2
+2019,Women who have been victims of sexual violence (aged 15-49),,Female,15 to 49 years old,Urban,Percent,2019,3.6

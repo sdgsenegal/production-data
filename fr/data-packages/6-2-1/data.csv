@@ -1,1 +1,19 @@
-Year,Value
+Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,Value
+2015,Taux d'accès global à l'assainissement,,,PT,2020,48.4
+2016,Taux d'accès global à l'assainissement,,,PT,2020,51.49
+2017,Taux d'accès global à l'assainissement,,,PT,2020,53.97
+2018,Taux d'accès global à l'assainissement,,,PT,2020,55.1
+2019,Taux d'accès global à l'assainissement,,,PT,2020,60.4
+2020,Taux d'accès global à l'assainissement,,,PT,2020,61.8
+2015,Taux d'accès global à l'assainissement,,R,PT,2020,36.7
+2016,Taux d'accès global à l'assainissement,,R,PT,2020,38.7
+2017,Taux d'accès global à l'assainissement,,R,PT,2020,42.3
+2018,Taux d'accès global à l'assainissement,,R,PT,2020,53.6
+2019,Taux d'accès global à l'assainissement,,R,PT,2020,49.1
+2020,Taux d'accès global à l'assainissement,,R,PT,2020,50.7
+2015,Taux d'accès global à l'assainissement,,U,PT,2020,62.2
+2016,Taux d'accès global à l'assainissement,,U,PT,2020,66.5
+2017,Taux d'accès global à l'assainissement,,U,PT,2020,67.4
+2018,Taux d'accès global à l'assainissement,,U,PT,2020,72.7
+2019,Taux d'accès global à l'assainissement,,U,PT,2020,75.8
+2020,Taux d'accès global à l'assainissement,,U,PT,2020,74.0

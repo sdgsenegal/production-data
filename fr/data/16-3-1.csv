@@ -1,1 +1,24 @@
-Year,Value
+Year,SERIES,REF_AREA,SEX,AGE,COMPOSITE_BREAKDOWN,UNIT_MEASURE,TIME_DETAIL,Value
+2017,Proportion de victimes de violences au cours des 12 mois précédents ayant signalé les faits aux autorités compétentes ou à d’autres mécanismes de règlement des différends officiellement reconnus,,,,,PT,2017,0.384
+2017,Proportion de victimes de violences au cours des 12 mois précédents ayant signalé les faits aux autorités compétentes ou à d’autres mécanismes de règlement des différends officiellement reconnus,,F,,,PT,2017,0.369
+2017,Proportion de victimes de violences au cours des 12 mois précédents ayant signalé les faits aux autorités compétentes ou à d’autres mécanismes de règlement des différends officiellement reconnus,,M,,,PT,2017,0.4
+2015,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,,NUMBER,2018,414.0
+2016,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,,NUMBER,2018,256.0
+2017,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,,NUMBER,2018,474.0
+2018,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,,NUMBER,2018,465.0
+2015,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences coups et blessures volontaires,NUMBER,2018,113.0
+2016,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences coups et blessures volontaires,NUMBER,2018,45.0
+2017,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences coups et blessures volontaires,NUMBER,2018,57.0
+2018,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences coups et blessures volontaires,NUMBER,2018,75.0
+2015,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences Conjugales,NUMBER,2018,273.0
+2016,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences Conjugales,NUMBER,2018,206.0
+2017,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences Conjugales,NUMBER,2018,395.0
+2018,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,,Violences Conjugales,NUMBER,2018,361.0
+2015,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y_GE18,Violences sexuelles sur mineurs,NUMBER,2018,9.0
+2016,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y_GE18,Violences sexuelles sur mineurs,NUMBER,2018,2.0
+2017,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y_GE18,Violences sexuelles sur mineurs,NUMBER,2018,8.0
+2018,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y_GE18,Violences sexuelles sur mineurs,NUMBER,2018,20.0
+2015,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y0T17,Violences sexuelles sur mineurs,NUMBER,2018,19.0
+2016,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y0T17,Violences sexuelles sur mineurs,NUMBER,2018,3.0
+2017,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y0T17,Violences sexuelles sur mineurs,NUMBER,2018,14.0
+2018,Nombre de victimes de violences au cours des 12 mois ayant signalé les faits aux autorités,,,Y0T17,Violences sexuelles sur mineurs,NUMBER,2018,9.0

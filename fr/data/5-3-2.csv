@@ -1,1 +1,21 @@
-Year,Value
+Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,TIME_DETAIL,Value
+2015,Prévalence de l'excision chez les femmes,,,Y0T14,PT,2019,14.6
+2016,Prévalence de l'excision chez les femmes,,,Y0T14,PT,2019,13.6
+2017,Prévalence de l'excision chez les femmes,,,Y0T14,PT,2019,14.000000000000002
+2018,Prévalence de l'excision chez les femmes,,,Y0T14,PT,2019,14.099999999999998
+2019,Prévalence de l'excision chez les femmes,,,Y0T14,PT,2019,16.1
+2015,Prévalence de l'excision chez les femmes,,,Y15T49,PT,2019,24.2
+2016,Prévalence de l'excision chez les femmes,,,Y15T49,PT,2019,23.0
+2017,Prévalence de l'excision chez les femmes,,,Y15T49,PT,2019,24.0
+2018,Prévalence de l'excision chez les femmes,,,Y15T49,PT,2019,23.0
+2019,Prévalence de l'excision chez les femmes,,,Y15T49,PT,2019,25.2
+2015,Prévalence de l'excision chez les femmes,,F,Y0T14,PT,2019,14.6
+2016,Prévalence de l'excision chez les femmes,,F,Y0T14,PT,2019,13.6
+2017,Prévalence de l'excision chez les femmes,,F,Y0T14,PT,2019,14.000000000000002
+2018,Prévalence de l'excision chez les femmes,,F,Y0T14,PT,2019,14.099999999999998
+2019,Prévalence de l'excision chez les femmes,,F,Y0T14,PT,2019,16.1
+2015,Prévalence de l'excision chez les femmes,,F,Y15T49,PT,2019,24.2
+2016,Prévalence de l'excision chez les femmes,,F,Y15T49,PT,2019,23.0
+2017,Prévalence de l'excision chez les femmes,,F,Y15T49,PT,2019,24.0
+2018,Prévalence de l'excision chez les femmes,,F,Y15T49,PT,2019,23.0
+2019,Prévalence de l'excision chez les femmes,,F,Y15T49,PT,2019,25.2

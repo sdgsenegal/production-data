@@ -1,1 +1,14 @@
-Year,Value
+Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2015,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,19.3
+2016,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,20.7
+2017,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,19.5
+2018,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,18.9
+2019,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,20.3
+2020,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,20.2
+2021,Total government revenue as a proportion of GDP [17.1.1],,including donations,Percent,2021,19.5
+2015,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,17.1
+2016,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,18.5
+2017,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,17.3
+2018,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,16.9
+2019,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,18.7
+2020,Total government revenue as a proportion of GDP [17.1.1],,Excluding donations,Percent,2020,17.9

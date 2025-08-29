@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.79
-2016,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.75
-2017,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.45
-2018,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.71
-2019,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.68
-2020,Normal value,Units,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.41
+Year,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.79
+2016,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.75
+2017,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.45
+2018,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.71
+2019,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.68
+2020,Agriculture orientation index for government expenditures [2.a.1],,Index,2020,0.41

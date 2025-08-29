@@ -1,1 +1,17 @@
-Year,Value
+Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,Value
+2015,Taux d’accès global à l’eau potable,,,PT,2020,92.2
+2016,Taux d’accès global à l’eau potable,,,PT,2020,93.7
+2019,Taux d’accès global à l’eau potable,,,PT,2020,96.2
+2020,Taux d’accès global à l’eau potable,,,PT,2020,97.6
+2015,Taux d’accès global à l’eau potable,,R,PT,2020,87.2
+2016,Taux d’accès global à l’eau potable,,R,PT,2020,89.5
+2017,Taux d’accès global à l’eau potable,,R,PT,2020,91.3
+2018,Taux d’accès global à l’eau potable,,R,PT,2020,70.6
+2019,Taux d’accès global à l’eau potable,,R,PT,2020,94.8
+2020,Taux d’accès global à l’eau potable,,R,PT,2020,96.5
+2015,Taux d’accès global à l’eau potable,,U,PT,2020,98.0
+2016,Taux d’accès global à l’eau potable,,U,PT,2020,98.5
+2017,Taux d’accès global à l’eau potable,,U,PT,2020,98.8
+2018,Taux d’accès global à l’eau potable,,U,PT,2020,90.9
+2019,Taux d’accès global à l’eau potable,,U,PT,2020,97.8
+2020,Taux d’accès global à l’eau potable,,U,PT,2020,98.8

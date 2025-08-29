@@ -1,1 +1,4 @@
 From,To
+Time period details,Sex
+COMPOSITE_BREAKDOWN,Age
+Time period details,COMPOSITE_BREAKDOWN

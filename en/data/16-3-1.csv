@@ -1,1 +1,24 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2017,"""Proportion of victims of violence in the previous 12 months who reported the incident  to the competent authorities or other officially recognized dispute resolution mechanisms""",,,,,Percent,2017,0.384
+2017,"""Proportion of victims of violence in the previous 12 months who reported the incident  to the competent authorities or other officially recognized dispute resolution mechanisms""",,Female,,,Percent,2017,0.369
+2017,"""Proportion of victims of violence in the previous 12 months who reported the incident  to the competent authorities or other officially recognized dispute resolution mechanisms""",,Male,,,Percent,2017,0.4
+2015,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,,Number,2018,414.0
+2016,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,,Number,2018,256.0
+2017,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,,Number,2018,474.0
+2018,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,,Number,2018,465.0
+2015,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Assault and battery,Number,2018,113.0
+2016,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Assault and battery,Number,2018,45.0
+2017,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Assault and battery,Number,2018,57.0
+2018,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Assault and battery,Number,2018,75.0
+2015,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Domestic violence,Number,2018,273.0
+2016,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Domestic violence,Number,2018,206.0
+2017,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Domestic violence,Number,2018,395.0
+2018,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,,Domestic violence,Number,2018,361.0
+2015,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,18 years old and over,Sexual violence against minors,Number,2018,9.0
+2016,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,18 years old and over,Sexual violence against minors,Number,2018,2.0
+2017,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,18 years old and over,Sexual violence against minors,Number,2018,8.0
+2018,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,18 years old and over,Sexual violence against minors,Number,2018,20.0
+2015,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,under 18 years old,Sexual violence against minors,Number,2018,19.0
+2016,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,under 18 years old,Sexual violence against minors,Number,2018,3.0
+2017,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,under 18 years old,Sexual violence against minors,Number,2018,14.0
+2018,Number of victims of violence in the past 12 months who reported the incident to the authorities,,,under 18 years old,Sexual violence against minors,Number,2018,9.0
